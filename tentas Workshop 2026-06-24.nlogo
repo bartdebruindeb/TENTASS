@@ -72,6 +72,7 @@ to setup
   complex-path-weight
   setup-social-innovators
   setup-metrics
+  layout-network
   update-plots
   ;random-seed new-seed
 
@@ -579,7 +580,7 @@ rewiring-proportion
 rewiring-proportion
 0
 1
-0.15
+0.1
 0.01
 1
 NIL
@@ -651,7 +652,7 @@ dekkers-power
 dekkers-power
 0
 10
-6.0
+3.0
 0.5
 1
 NIL
@@ -745,7 +746,7 @@ Population-Size
 Population-Size
 1
 840
-840.0
+100.0
 1
 1
 NIL
@@ -787,7 +788,7 @@ CHOOSER
 layout
 layout
 "spring" "circle" "tutte" "radial"
-1
+0
 
 SLIDER
 170
