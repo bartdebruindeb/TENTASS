@@ -1026,8 +1026,8 @@ PLOT
 1378
 175
 Adoption rate over time
-Ticks
-#People
+NIL
+People
 0.0
 10.0
 0.0
