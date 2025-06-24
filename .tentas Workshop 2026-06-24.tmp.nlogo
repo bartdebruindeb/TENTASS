@@ -1383,6 +1383,7 @@ NetLogo 6.4.0
     <metric>gcc</metric>
     <metric>MCRPL</metric>
     <metric>MPL</metric>
+    <metric>VCCC</metric>
     <metric>VEC</metric>
     <metric>VBC</metric>
     <metric>VCCo</metric>
