@@ -12,7 +12,7 @@ globals [
   sim-ended?
   count-people-updated-this-tick
 
-  ;; Network Metrics
+  ;; ONetwork Metrics
   GCC                                ;; Global Clustering Coefficient
   MPL                                ;; Mean Path Length
   MCRPL                              ;; Mean Complex Path Length
@@ -1026,8 +1026,8 @@ PLOT
 1378
 175
 Adoption rate over time
-NIL
-People
+Ticks
+#People
 0.0
 10.0
 0.0

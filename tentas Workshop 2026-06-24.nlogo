@@ -12,7 +12,7 @@ globals [
   sim-ended?
   count-people-updated-this-tick
 
-  ;; Network Metrics
+  ;; Output Network Metrics
   GCC                                ;; Global Clustering Coefficient
   MPL                                ;; Mean Path Length
   MCRPL                              ;; Mean Complex Path Length
